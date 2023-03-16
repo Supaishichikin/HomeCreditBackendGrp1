@@ -9,5 +9,10 @@ create a virtual environment and install the requirements.txt file
 3. on windows `source env/bin/activate`
 4. `pip install --no-cache-dir --upgrade -r requirements.txt`
 
+## How to run database
+go at the root of the project and run this command:
+`docker-compose up`
+
+
 then run the project at the root of the projet using this command:
 `flask run`
